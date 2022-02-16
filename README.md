@@ -12,8 +12,8 @@
 <br></br>
 
 <p align="center">
-	<a href="https://github.com/cocofox1902/Colas/blob/main/README.	md">
-		<img 	align="center" src="https://github-readme-stats.vercel.app/api?	username=cocofox1902&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="cocofox1902's github stats" />
+	<a href="https://github.com/cocofox1902/Colas/README.md">
+		<img 	align="center" src="https://github-readme-stats.vercel.app/api?username=cocofox1902&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=false" alt="cocofox1902's github stats" />
 	</a>
 <br></br>
     <a href="https://github.com/cocofox1902/Colas/blob/main/README.md">
